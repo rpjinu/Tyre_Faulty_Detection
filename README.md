@@ -56,3 +56,26 @@ The dataset consists of tire images categorized into two classes:
    ```bash
    git clone https://github.com/rpjinu/tire-fault-detection.git
    cd tire-fault-detection
+
+##Usage
+Launch the Streamlit app.
+
+Upload a tire image using the file uploader.
+
+The app will display the image and predict whether it is Good or Faulty.
+
+View the confidence score and visual explanation of the prediction.
+
+##Results
+Achieved 90%+ accuracy on the test dataset.
+
+Successfully deployed the model as a Streamlit web app for real-time predictions.
+
+##Contact
+For questions or feedback, feel free to reach out:
+
+Name: Ranjan Kumar Pradhan
+
+Email:jinupradhan123@gmail.com
+
+GitHub: rpjinu
