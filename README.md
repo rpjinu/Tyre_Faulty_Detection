@@ -49,6 +49,11 @@ The dataset consists of tire images categorized into two classes:
 5. **Web App Deployment**: Use Streamlit to create an interactive web app for real-time predictions.
 
 ---
+##Deployment image:-
+<img src="https://github.com/rpjinu/Tyre_Faulty_Detection/blob/main/Deploy_image1.png" width="400">
+
+##prediction_image:-
+<img src="" width="400">
 
 ## Installation
 
