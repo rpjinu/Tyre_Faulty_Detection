@@ -53,7 +53,7 @@ The dataset consists of tire images categorized into two classes:
 <img src="https://github.com/rpjinu/Tyre_Faulty_Detection/blob/main/Deploy_image1.png" width="400">
 
 ##prediction_image:-
-<img src="" width="400">
+<img src="https://github.com/rpjinu/Tyre_Faulty_Detection/blob/main/deploy_prediction_image.png" width="400">
 
 ## Installation
 
