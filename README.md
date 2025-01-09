@@ -10,6 +10,7 @@
 This project aims to develop an **intelligent system** using **deep learning** to predict faulty tires during the manufacturing process. By analyzing tire images and manufacturing parameters, the system identifies defects, enabling manufacturers to optimize processes, reduce waste, and improve production efficiency.
 
 ---
+<img src="https://github.com/rpjinu/Tyre_Faulty_Detection/blob/main/tyre_project_image.png" width="800">
 
 ## Features
 
