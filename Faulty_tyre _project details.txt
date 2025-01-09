@@ -1,0 +1,57 @@
+FaultFindy (Build intelligence using Machine Learning to predict the faulty tyre in
+manufacturing)
+The objective of this project is to develop an intelligent system using deep learning to predict
+the faults in manufacturing processes. By analyzing various manufacturing parameters and
+process data, the system will predict the faulty tyre generated during production. This predictive
+capability will enable manufacturers to proactively optimize their processes, reduce waste, and
+improve overall production efficiency.
+Focus Areas:
+ Data Collection: Gather historical manufacturing data, including good and faulty
+corresponding tyre images.
+ Data Preprocessing: Clean, preprocess, and transform the data to make it suitable for
+deep learning models.
+ Feature Engineering: Extract relevant features and identify key process variables that
+impact faulty tyre generation.
+ Model Selection: Choose appropriate machine learning algorithms for faulty tyre
+prediction.
+ Model Training: Train the selected models using the preprocessed data.
+ Model Evaluation: Assess the performance of the trained models using appropriate
+evaluation metrics.
+ Hyperparameter Tuning: Optimize model hyperparameters to improve predictive
+accuracy.
+Deliverables:
+Please share the following deliverables in a zip file.
+ A report (PDF) detailing:
+ Description of design choices and Performance evaluation of the model
+ Discussion of future work
+ The source code used to create the pipeline.
+Tasks/Activities List:
+ Data Collection:
+o Gather historical manufacturing data, including good and faulty images.
+o Ensure data quality, handle missing values, and remove outliers.
+ Data Preprocessing:
+o Clean and preprocess the data to remove noise and inconsistencies.
+ Feature Engineering:
+o Identify important features and process variables that influence fault.
+o Engineer relevant features to capture patterns and correlations.
+ Model Selection:
+o Choose appropriate machine and deep learning algorithms.
+o Consider models like logistic regression, decision trees, random forests, or
+gradient boosting, CNN, computer vision.
+ Model Training:
+o Split the data into training and testing sets.
+o Train the selected machine learning models on the training data.
+ Model Evaluation:
+o Evaluate the models' performance using relevant metrics
+o Choose the best-performing model for deployment.
+ Hyperparameter Tuning:
+o Fine-tune hyperparameters of the selected model to optimize performance.
+o Use techniques like grid search or random search for hyperparameter
+optimization.
+Success Metrics:
+ The predictive model should achieve high accuracy
+Bonus Points:
+ Create visualizations or reports to communicate the model's predictions and insights to
+stakeholders.
+ Implement a feedback loop to update the model periodically with fresh manufacturing
+data.
