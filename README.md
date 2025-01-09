@@ -1,7 +1,7 @@
 # Tyre_Faulty_Detection
 "Developed a deep learning-based system to predict faulty tires in manufacturing using image analysis, enabling proactive process optimization and waste reduction."
 # Tire Fault Detection System
-
+<img src="https://github.com/rpjinu/Tyre_Faulty_Detection/blob/main/tyre_project_image.png" width="600">
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-brightgreen)
@@ -10,8 +10,6 @@
 This project aims to develop an **intelligent system** using **deep learning** to predict faulty tires during the manufacturing process. By analyzing tire images and manufacturing parameters, the system identifies defects, enabling manufacturers to optimize processes, reduce waste, and improve production efficiency.
 
 ---
-<img src="https://github.com/rpjinu/Tyre_Faulty_Detection/blob/main/tyre_project_image.png" width="800">
-
 ## Features
 
 - **Image-Based Fault Detection**: Uses Convolutional Neural Networks (CNNs) to classify tire images as "Good" or "Faulty."
