@@ -37,6 +37,7 @@ This project aims to develop an **intelligent system** using **deep learning** t
 The dataset consists of tire images categorized into two classes:
 - **Good Tires**: Images of tires without defects.
 - **Faulty Tires**: Images of tires with manufacturing defects.
+- Dataset link:- https://www.kaggle.com/datasets/rpjinu/tyre-faultfindy
 
 ---
 
